@@ -1,0 +1,7 @@
+.anchor
+.DS_Store
+target
+node_modules
+**/*.rs.bk
+Cargo.lock
+programs/amm/amm-keypair.json
